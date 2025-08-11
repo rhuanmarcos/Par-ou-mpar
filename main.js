@@ -10,11 +10,8 @@ function game(params) {
     var r;
 
     jogador = document.getElementById("jogador").value;
-
     soma = mdireita + mesquerda
-
     bot = Math.ceil(Math.random() * 10);
-
     if (jogador == soma) {
      
     }
